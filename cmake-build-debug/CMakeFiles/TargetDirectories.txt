@@ -1,0 +1,4 @@
+/home/andre/Desktop/AntóniopréPedidos/cmake-build-debug/CMakeFiles/AED_Project.dir
+/home/andre/Desktop/AntóniopréPedidos/cmake-build-debug/CMakeFiles/Doxygen.dir
+/home/andre/Desktop/AntóniopréPedidos/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/andre/Desktop/AntóniopréPedidos/cmake-build-debug/CMakeFiles/rebuild_cache.dir

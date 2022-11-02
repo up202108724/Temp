@@ -1,0 +1,8 @@
+# ninja log v5
+1	408	1667406555921371968	CMakeFiles/AED_Project.dir/GestaoHorarios.cpp.o	cdf34dd388044f2c
+506	570	1667408235171845892	AED_Project	957b18b8d63a515
+1	270	1667406555785369569	CMakeFiles/AED_Project.dir/Estudante.cpp.o	74a0a394f8cce266
+0	8	1667304092508280092	CMakeFiles/AED_Project.dir/Tests/firstdoc.cpp.o	f71c8987a6fd155e
+1	156	1667401857923800608	CMakeFiles/AED_Project.dir/Aula.cpp.o	ff8b3c2cfd277ab2
+0	216	1667404016739795655	CMakeFiles/AED_Project.dir/UCTurma.cpp.o	33205aeae6294ac0
+1	506	1667408235107845963	CMakeFiles/AED_Project.dir/main.cpp.o	7a3b563ec1949186
